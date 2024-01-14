@@ -1,0 +1,793 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.13)  14 JAN 2024 11:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/ebgaramond/ebgaramond.sty
+Package: ebgaramond 2022/09/10 (Bob Tennent and autoinst) Style file for EB Gar
+amond fonts.
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count197
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 161.
+LaTeX Info: Redefining \textsw on input line 169.
+)
+(/usr/share/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count198
+\mult@box=\box51
+\multicol@leftmargin=\dimen149
+\c@unbalance=\count199
+\c@collectmore=\count266
+\doublecol@number=\count267
+\multicoltolerance=\count268
+\multicolpretolerance=\count269
+\full@width=\dimen150
+\page@free=\dimen151
+\premulticols=\dimen152
+\postmulticols=\dimen153
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box52
+\last@line=\box53
+\maxbalancingoverflow=\dimen154
+\mult@rightbox=\box54
+\mult@grightbox=\box55
+\mult@firstbox=\box56
+\mult@gfirstbox=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count270
+\c@columnbadness=\count271
+\c@finalcolumnbadness=\count272
+\last@try=\dimen155
+\multicolovershoot=\dimen156
+\multicolundershoot=\dimen157
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count273
+))
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
+)
+(/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box96
+\beforetitleunit=\skip61
+\aftertitleunit=\skip62
+\ttl@plus=\dimen158
+\ttl@minus=\dimen159
+\ttl@toksa=\toks22
+\titlewidth=\dimen160
+\titlewidthlast=\dimen161
+\titlewidthfirst=\dimen162
+)
+(/usr/share/texmf-dist/tex/latex/poemscol/poemscol.sty
+Package: poemscol 2020/06/12 v3.1415926 poemscol file
+\verseindentamount=\skip63
+\l@@pcounter=\count274
+\indentedstanzaamount=\skip64
+\variablestanzaamount=\skip65
+\titleindentamount=\skip66
+\titleindenttwoamount=\skip67
+\titleindentthreeamount=\skip68
+\volumetitleindentamount=\skip69
+\volumetitlesecondlineindentamount=\skip70
+\volumesubtitleindentamount=\skip71
+\volumesubtitlesecondlineindentamount=\skip72
+\volumesectiontitleindentamount=\skip73
+\volumesectiontitlesecondlineindentamount=\skip74
+\poemtitleindentamount=\skip75
+\poemtitlesecondlineindentamount=\skip76
+\poemsubtitleindentamount=\skip77
+\poemsectiontitleindentamount=\skip78
+\poemsectiontitlesecondlineindentamount=\skip79
+\poemsubsectiontitleindentamount=\skip80
+\sequencetitleindentamount=\skip81
+\sequencetitlesecondlineindentamount=\skip82
+\sequencesubtitleindentamount=\skip83
+\sequencesubtitlesecondlineindentamount=\skip84
+\sequencesectiontitleindentamount=\skip85
+\sequencesectiontitlesecondlineindentamount=\skip86
+\sequencesectionsubtitleindentamount=\skip87
+\sequencesectionsubtitlesecondlineindentamount=\skip88
+\sequencesubsectiontitleindentamount=\skip89
+\sequencesubsubsectiontitleindentamount=\skip90
+\appendixtitleindentamount=\skip91
+\subappendixtitleindentamount=\skip92
+\forewordtitleindentamount=\skip93
+\notestitleindentamount=\skip94
+\volumetitleshiftamount=\dimen163
+\voladditionalamount=\dimen164
+\contentsindentoneamount=\dimen165
+\contentsindenttwoamount=\dimen166
+\contentsindentthreeamount=\dimen167
+\contentsindentfouramount=\dimen168
+\contentsindentfiveamount=\dimen169
+\contentsvolumetitleindentamount=\skip95
+\contentsvolumetitlesecondlineindentamount=\skip96
+\contentsvolumesubtitleindentamount=\skip97
+\contentsvolumesubtitlesecondlineindentamount=\skip98
+\contentsvolumesectiontitleindentamount=\skip99
+\contentsvolumesectiontitlesecondlineindentamount=\skip100
+\contentspoemtitleindentamount=\skip101
+\contentspoemtitlesecondlineindentamount=\skip102
+\contentspoemsubtitleindentamount=\skip103
+\contentspoemsectiontitleindentamount=\skip104
+\contentspoemsectiontitlesecondlineindentamount=\skip105
+\contentspoemsubsectiontitleindentamount=\skip106
+\contentssequencetitleindentamount=\skip107
+\contentssequencetitlesecondlineindentamount=\skip108
+\contentssequencesubtitleindentamount=\skip109
+\contentssequencesubtitlesecondlineindentamount=\skip110
+\contentssequencesectiontitleindentamount=\skip111
+\contentssequencesectiontitlesecondlineindentamount=\skip112
+\contentssequencesectionsubtitleindentamount=\skip113
+\contentssequencesectionsubtitlesecondlineindentamount=\skip114
+\contentssequencesubsectiontitleindentamount=\skip115
+\contentssequencesubsubsectiontitleindentamount=\skip116
+\poemtitlewidth=\skip117
+\lefttitleaddition=\skip118
+\marginparsepmin=\skip119
+\versemarginadjust=\skip120
+\c@verselinenumber=\count275
+\c@printlineindex=\count276
+\c@verselinenumberscratch=\count277
+\c@printlineindexscratch=\count278
+\c@lineindexrepeat=\count279
+\c@lemmalines=\count280
+\c@lemmaend=\count281
+\c@poemnumber=\count282
+\c@notepageholdertitle=\count283
+\c@notepageholdernote=\count284
+\fulltitleholder=\toks23
+\titlesofar=\toks24
+\titleincrement=\toks25
+\main@idxfile=\write3
+\openout3 = `main.idx'.
+
+
+Writing index file main.idx
+\headoffsetlength=\skip121
+\singlelineabbrev=\toks26
+\multiplelineabbrev=\toks27
+\singlepageabbrev=\toks28
+\multiplepageabbrev=\toks29
+\contentsentryoverrun=\skip122
+\titleentryoverrun=\skip123
+\versewidth=\skip124
+\@memcnta=\count285
+\c@cp@cntr=\count286
+\pmclsideparvshift=\skip125
+\pmclcontentsname=\toks30
+\pmclcontentsheader=\toks31
+\noteindentation=\skip126
+\pmclnotesname=\toks32
+\notesheadername=\toks33
+\textnotescontentsname=\toks34
+\emendationsname=\toks35
+\emendationsheadername=\toks36
+\emendationscontentsname=\toks37
+\explanationsname=\toks38
+\explanationsheadername=\toks39
+\explanationscontentsname=\toks40
+\lefttitlemargin=\skip127
+\JHtextwidth=\skip128
+\JHmarginparsep=\skip129
+\JHmarginparvshift=\skip130
+\JHmarginparwidth=\skip131
+\JHmarginparsepmin=\skip132
+\JHtitlemarginparsep=\skip133
+\c@margrefnumber=\count287
+\margrefmarker=\toks41
+\titlemargrefmarker=\toks42
+\centerepigraphindentation=\skip134
+\normalepigraphindentation=\skip135
+\dateindent=\skip136
+\poemattributionindent=\skip137
+\c@proselinenumber=\count288
+\c@prosemodulo=\count289
+\pmnoteheader=\toks43
+\c@pmsentencenumber=\count290
+\c@pmmodulo=\count291
+\c@pmindexcount=\count292
+\c@pmparagraph=\count293
+\pmrangeend=\toks44
+\pmclsavsk=\dimen170
+\pmclsavsf=\count294
+\c@rectolinecounter=\count295
+\c@rectoindexscratch=\count296
+\c@versolinecounter=\count297
+\c@versoindexscratch=\count298
+\versotitleholder=\toks45
+\rectotitleholder=\toks46
+\synchroflag=\toks47
+\versotextnotesname=\toks48
+\versotextnotesheadername=\toks49
+\versotextnotescontentsname=\toks50
+\rectotextnotesname=\toks51
+\rectotextnotesheadername=\toks52
+\rectotextnotescontentsname=\toks53
+\versoemendationsname=\toks54
+\versoemendationsheadername=\toks55
+\versoemendationscontentsname=\toks56
+\rectoemendationsname=\toks57
+\rectoemendationsheadername=\toks58
+\rectoemendationscontentsname=\toks59
+\versoexplanationsname=\toks60
+\versoexplanationsheadername=\toks61
+\versoexplanationscontentsname=\toks62
+\rectoexplanationsname=\toks63
+\rectoexplanationsheadername=\toks64
+\rectoexplanationscontentsname=\toks65
+\c@prosepage=\count299
+\c@versoproselinecounter=\count300
+\c@rectoproselinecounter=\count301
+\poemindexname=\toks66
+\poemindexheadername=\toks67
+\poemindexcontentsname=\toks68
+\poemindexlabelname=\toks69
+\epigraphquoteleftmargin=\skip138
+\epigraphquoterightmargin=\skip139
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
+)
+\main@idxfile=\write4
+\openout4 = `main.idx'.
+
+
+Writing index file main.idx
+LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on in
+put line 24.
+(/usr/share/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-OsF.fd
+File: T1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for T1/EBGaram
+ond-OsF.
+)
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <12> not availab
+le
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
+nput line 24.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 24.
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count302
+\l__pdf_internal_box=\box97
+)
+(build/main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside asymmetric 
+* h-part:(L,W,R)=(32.52148pt, 316.18124pt, 48.78226pt)
+* v-part:(T,H,B)=(72.26999pt, 505.89pt, 36.13501pt)
+* \paperwidth=397.48499pt
+* \paperheight=614.295pt
+* \textwidth=316.18124pt
+* \textheight=505.89pt
+* \oddsidemargin=-39.7485pt
+* \evensidemargin=-23.48773pt
+* \topmargin=-31.8738pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=18.0pt
+* \marginparsep=18.0pt
+* \columnsep=15.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count303
+\c@mv@boldtabular=\count304
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count305
+\scratchdimen=\dimen173
+\scratchbox=\box98
+\nofMPsegments=\count306
+\nofMParguments=\count307
+\everyMPshowfont=\toks70
+\MPscratchCnt=\count308
+\MPscratchDim=\dimen174
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
+\everyMPtoPDFconversion=\toks71
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <20.74> not avai
+lable
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
+nput line 26.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 20.74pt on input line 26.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <14.4> not avail
+able
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
+nput line 26.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
+/enc/dvips/ebgaramond/ebgm_tcdnmr.enc}]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2
+
+
+]
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <24.88> not avai
+lable
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
+nput line 28.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 24.88pt on input line 28.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <24.88> not avai
+lable
+(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on inpu
+t line 28.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
+(Font)              scaled to size 24.88pt on input line 28.
+ (build/main.toc
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <14.4> not avail
+able
+(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on inpu
+t line 1.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <12> not availab
+le
+(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on inpu
+t line 2.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 2.
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <10.95> not avai
+lable
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
+nput line 30.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 30.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4
+
+]
+runsystem(makeindex main.idx)...executed safely (allowed).
+
+ (./main.ind)
+<brightblade.png, id=17, 1027.84pt x 1027.84pt>
+File: brightblade.png Graphic file (type png)
+<use brightblade.png>
+Package pdftex.def Info: brightblade.png  used on input line 39.
+(pdftex.def)             Requested size: 158.09062pt x 158.09023pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[1
+
+
+ <./brightblade.png>] [2]
+Chapter 1.
+
+Overfull \hbox (14.14769pt too wide) in paragraph at lines 45--46
+[]\T1/EBGaramond-OsF/regular/n/12 Yes, the ad-ven-turer! That plucky man or wom
+an, who trav-els Mundthir
+ []
+
+
+Overfull \hbox (8.35905pt too wide) in paragraph at lines 47--48
+\T1/EBGaramond-OsF/regular/n/12 and some-times even their life to save Mundthir
+ from dark threats. What's
+ []
+
+
+Overfull \hbox (7.00282pt too wide) in paragraph at lines 49--50
+[]\T1/EBGaramond-OsF/regular/n/12 Aye reader, that's right. I was an ad-ven-tur
+er start-ing near one-hundred
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3
+
+]
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' in size <12> not availa
+ble
+(Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on 
+input line 57.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/it' will be
+(Font)              scaled to size 12.0pt on input line 57.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ljow5q.enc}]
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <8> not availabl
+e
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
+nput line 92.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 92.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
+Overfull \hbox (2.26228pt too wide) in paragraph at lines 130--131
+\T1/EBGaramond-OsF/regular/n/12 some-where south of Ars Pri-aethier. I also kne
+w that this Tuhtsin woods
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8
+
+]
+Chapter 2.
+
+Overfull \hbox (8.05754pt too wide) in paragraph at lines 141--142
+[]\T1/EBGaramond-OsF/regular/n/12 I checked my belt and there it was, never hav
+-ing left my side. Gwythen-
+ []
+
+
+Overfull \hbox (2.83449pt too wide) in paragraph at lines 143--144
+[]\T1/EBGaramond-OsF/regular/n/12 However, pulling Gwyn-then-ril out of his hom
+e, made a loud scratch-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12
+
+]
+<the three.png, id=59, 1027.84pt x 1027.84pt>
+File: the three.png Graphic file (type png)
+<use the three.png>
+Package pdftex.def Info: the three.png  used on input line 178.
+(pdftex.def)             Requested size: 158.09062pt x 158.09023pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13 <./the three.png>] [14]
+Chapter 1.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15
+
+] (build/main.aux) ) 
+Here is how much of TeX's memory you used:
+ 5091 strings out of 477985
+ 91514 string characters out of 5840058
+ 1858388 words of memory out of 5000000
+ 25240 multiletter control sequences out of 15000+600000
+ 580714 words of font info for 56 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 57i,13n,62p,658b,363s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGara
+mond-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-I
+talic.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regul
+ar.pfb>
+Output written on build/main.pdf (19 pages, 5094324 bytes).
+PDF statistics:
+ 88 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
