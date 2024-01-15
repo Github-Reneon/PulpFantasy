@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.13)  14 JAN 2024 11:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.13)  14 JAN 2024 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -660,11 +660,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-Overfull \hbox (2.26228pt too wide) in paragraph at lines 130--131
-\T1/EBGaramond-OsF/regular/n/12 some-where south of Ars Pri-aethier. I also kne
-w that this Tuhtsin woods
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -742,13 +737,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12
-
-]
+[12]
 <the three.png, id=59, 1027.84pt x 1027.84pt>
 File: the three.png Graphic file (type png)
 <use the three.png>
-Package pdftex.def Info: the three.png  used on input line 178.
+Package pdftex.def Info: the three.png  used on input line 190.
 (pdftex.def)             Requested size: 158.09062pt x 158.09023pt.
 
 
@@ -759,7 +752,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13 <./the three.png>] [14]
+[13
+
+ <./the three.png>] [14]
 Chapter 1.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -784,7 +779,7 @@ Here is how much of TeX's memory you used:
 mond-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-I
 talic.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regul
 ar.pfb>
-Output written on build/main.pdf (19 pages, 5094324 bytes).
+Output written on build/main.pdf (19 pages, 5095513 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
