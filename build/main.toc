@@ -1,5 +1,5 @@
 \contentsline {part}{Brightblade}{3}{}%
 \contentsline {chapter}{\numberline {1}Adventurers}{3}{}%
 \contentsline {chapter}{\numberline {2}Interdiction}{9}{}%
-\contentsline {part}{In Aeons Past}{15}{}%
-\contentsline {chapter}{\numberline {1}Creation}{15}{}%
+\contentsline {part}{In Aeons Past}{17}{}%
+\contentsline {chapter}{\numberline {1}Creation}{17}{}%

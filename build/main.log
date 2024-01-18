@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.13)  14 JAN 2024 13:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.13)  15 JAN 2024 19:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,7 +395,7 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 
 Writing index file main.idx
 LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on in
-put line 24.
+put line 29.
 (/usr/share/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-OsF.fd
 File: T1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for T1/EBGaram
 ond-OsF.
@@ -403,9 +403,9 @@ ond-OsF.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <12> not availab
 le
 (Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
-nput line 24.
+nput line 29.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 24.
+(Font)              scaled to size 12.0pt on input line 29.
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
@@ -415,20 +415,20 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 (build/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -491,24 +491,29 @@ e
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <20.74> not avai
 lable
 (Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
-nput line 26.
+nput line 31.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 26.
+(Font)              scaled to size 20.74pt on input line 31.
+<front cover 2.png, id=1, 1027.84pt x 1027.84pt>
+File: front cover 2.png Graphic file (type png)
+<use front cover 2.png>
+Package pdftex.def Info: front cover 2.png  used on input line 31.
+(pdftex.def)             Requested size: 158.09062pt x 158.09023pt.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <14.4> not avail
 able
 (Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
-nput line 26.
+nput line 31.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 26.
+(Font)              scaled to size 14.4pt on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 26.
+(Font)              <14.4> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
+(Font)              <7> on input line 31.
  [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/ebgaramond/ebgm_tcdnmr.enc}]
+/enc/dvips/ebgaramond/ebgm_tcdnmr.enc} <./front cover 2.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -524,15 +529,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <24.88> not avai
 lable
 (Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
-nput line 28.
+nput line 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 28.
+(Font)              scaled to size 24.88pt on input line 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <24.88> not avai
 lable
 (Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on inpu
-t line 28.
+t line 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 24.88pt on input line 28.
+(Font)              scaled to size 24.88pt on input line 33.
  (build/main.toc
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <14.4> not avail
 able
@@ -553,9 +558,9 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <10.95> not avai
 lable
 (Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
-nput line 30.
+nput line 35.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 30.
+(Font)              scaled to size 10.95pt on input line 35.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -580,10 +585,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 runsystem(makeindex main.idx)...executed safely (allowed).
 
  (./main.ind)
-<brightblade.png, id=17, 1027.84pt x 1027.84pt>
+<front cover 3.png, id=20, 1027.84pt x 1027.84pt>
+File: front cover 3.png Graphic file (type png)
+<use front cover 3.png>
+Package pdftex.def Info: front cover 3.png  used on input line 38.
+(pdftex.def)             Requested size: 158.09062pt x 158.09023pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5 <./front cover 3.png>]
+<brightblade.png, id=25, 1027.84pt x 1027.84pt>
 File: brightblade.png Graphic file (type png)
 <use brightblade.png>
-Package pdftex.def Info: brightblade.png  used on input line 39.
+Package pdftex.def Info: brightblade.png  used on input line 47.
 (pdftex.def)             Requested size: 158.09062pt x 158.09023pt.
 
 
@@ -600,19 +620,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  <./brightblade.png>] [2]
 Chapter 1.
 
-Overfull \hbox (14.14769pt too wide) in paragraph at lines 45--46
+Overfull \hbox (14.14769pt too wide) in paragraph at lines 53--54
 []\T1/EBGaramond-OsF/regular/n/12 Yes, the ad-ven-turer! That plucky man or wom
 an, who trav-els Mundthir
  []
 
 
-Overfull \hbox (8.35905pt too wide) in paragraph at lines 47--48
+Overfull \hbox (8.35905pt too wide) in paragraph at lines 55--56
 \T1/EBGaramond-OsF/regular/n/12 and some-times even their life to save Mundthir
  from dark threats. What's
  []
 
 
-Overfull \hbox (7.00282pt too wide) in paragraph at lines 49--50
+Overfull \hbox (7.00282pt too wide) in paragraph at lines 57--58
 []\T1/EBGaramond-OsF/regular/n/12 Aye reader, that's right. I was an ad-ven-tur
 er start-ing near one-hundred
  []
@@ -631,9 +651,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' in size <12> not availa
 ble
 (Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on 
-input line 57.
+input line 65.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 12.0pt on input line 57.
+(Font)              scaled to size 12.0pt on input line 65.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -647,9 +667,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <8> not availabl
 e
 (Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on i
-nput line 92.
+nput line 100.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 92.
+(Font)              scaled to size 8.0pt on input line 100.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -691,13 +711,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Chapter 2.
 
-Overfull \hbox (8.05754pt too wide) in paragraph at lines 141--142
+Overfull \hbox (8.05754pt too wide) in paragraph at lines 149--150
 []\T1/EBGaramond-OsF/regular/n/12 I checked my belt and there it was, never hav
 -ing left my side. Gwythen-
  []
 
 
-Overfull \hbox (2.83449pt too wide) in paragraph at lines 143--144
+Overfull \hbox (2.83449pt too wide) in paragraph at lines 151--152
 []\T1/EBGaramond-OsF/regular/n/12 However, pulling Gwyn-then-ril out of his hom
 e, made a loud scratch-
  []
@@ -729,6 +749,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
+Overfull \hbox (11.07439pt too wide) in paragraph at lines 203--204
+\T1/EBGaramond-OsF/regular/n/12 spell, murmer-ing the magic words. I shouted to
+ Trimst ``Shut his mouth!''
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -738,10 +763,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
-<the three.png, id=59, 1027.84pt x 1027.84pt>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14
+
+]
+<the three.png, id=73, 1027.84pt x 1027.84pt>
 File: the three.png Graphic file (type png)
 <use the three.png>
-Package pdftex.def Info: the three.png  used on input line 190.
+Package pdftex.def Info: the three.png  used on input line 212.
 (pdftex.def)             Requested size: 158.09062pt x 158.09023pt.
 
 
@@ -752,9 +797,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13
-
- <./the three.png>] [14]
+[15 <./the three.png>] [16]
 Chapter 1.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -764,14 +807,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15
+[17
 
 ] (build/main.aux) ) 
 Here is how much of TeX's memory you used:
- 5091 strings out of 477985
- 91514 string characters out of 5840058
+ 5105 strings out of 477985
+ 91818 string characters out of 5840058
  1858388 words of memory out of 5000000
- 25240 multiletter control sequences out of 15000+600000
+ 25252 multiletter control sequences out of 15000+600000
  580714 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  57i,13n,62p,658b,363s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -779,10 +822,10 @@ Here is how much of TeX's memory you used:
 mond-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-I
 talic.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regul
 ar.pfb>
-Output written on build/main.pdf (19 pages, 5095513 bytes).
+Output written on build/main.pdf (22 pages, 9481748 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 101 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
