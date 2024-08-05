@@ -1,2 +1,6 @@
-\contentsline {chapter}{\numberline {1}Adventurers}{1}{}%
-\contentsline {chapter}{\numberline {2}Interdiction}{5}{}%
+\contentsline {part}{Brightblade}{3}{}%
+\contentsline {chapter}{\numberline {1}Adventurers}{3}{}%
+\contentsline {chapter}{\numberline {2}Interdiction}{9}{}%
+\contentsline {chapter}{\numberline {3}Skald}{15}{}%
+\contentsline {part}{In Aeons Past}{19}{}%
+\contentsline {chapter}{\numberline {1}Creation}{19}{}%
