@@ -1,6 +1,7 @@
 \contentsline {part}{Brightblade}{3}{}%
-\contentsline {chapter}{\numberline {1}Adventurers}{3}{}%
-\contentsline {chapter}{\numberline {2}Interdiction}{9}{}%
-\contentsline {chapter}{\numberline {3}Skald}{15}{}%
-\contentsline {part}{In Aeons Past}{19}{}%
-\contentsline {chapter}{\numberline {1}Creation}{19}{}%
+\contentsline {chapter}{\numberline {1}On Adventurers}{3}{}%
+\contentsline {chapter}{\numberline {2}The Praetherin}{9}{}%
+\contentsline {chapter}{\numberline {3}In The House of Gallanrey}{15}{}%
+\contentsline {chapter}{\numberline {4}The Ko}{17}{}%
+\contentsline {part}{In Aeons Past}{21}{}%
+\contentsline {chapter}{\numberline {1}Creation}{21}{}%
